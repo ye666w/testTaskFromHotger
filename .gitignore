@@ -1,0 +1,14 @@
+// node
+node_modules/
+
+// codeceptjs
+output
+
+// mac OS
+.DS_Store
+
+// yarn
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+yarn.lock
