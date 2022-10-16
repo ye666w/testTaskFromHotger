@@ -1,13 +1,13 @@
-// node
-node_modules/
+# node
+node_modules
 
-// codeceptjs
+# codeceptjs
 output
 
-// mac OS
+# MacOs
 .DS_Store
 
-// yarn
+# yarn
 yarn-debug.log*
 yarn-error.log*
 .yarn-integrity
